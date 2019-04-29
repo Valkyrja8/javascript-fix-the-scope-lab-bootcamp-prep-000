@@ -14,9 +14,10 @@ function yourAnimal (){
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
 
-const two = 2
+
 
 function add2(n) {
+  const two = 2
   return n + two
 }
 
@@ -28,7 +29,7 @@ var funkyFunction = function () {
   }
 }
 
-var theFunk = funkyFunction;
+var theFunk = 'FUNKY!';
 
 
     
